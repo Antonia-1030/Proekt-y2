@@ -3,7 +3,7 @@ import game.StartScreen;
 
 public class App {
     public static void main(String[] args) {
-        //new StartScreen();
-        new GameBoard();
+        new StartScreen();
+        //new GameBoard();
     }
 }
